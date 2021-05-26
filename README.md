@@ -7,6 +7,8 @@ Majestic offers leading-edge support for SEO's, developers, digital entrepreneur
 
 ## Majestic Dataset
 
+<br>
+
 |     | Variables | Description |
 | --- | ----------- | ----------- |
 |   1 | GlobalRank   | Globally ranked SEO in Majestic search. |
