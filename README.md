@@ -9,6 +9,8 @@ Majestic offers leading-edge support for SEO's, developers, digital entrepreneur
 
 ## majestic_million.csv
 
+The Majestic dataset consists of 12 variables:
+
 |     | Variables | Description |
 | --- | ----------- | ----------- |
 |   1 | **GlobalRank**   | Globally ranked SEO in Majestic search. |
