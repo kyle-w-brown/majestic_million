@@ -1,4 +1,8 @@
-# majestic_million.csv
+# Majestic Dataset
+
+---
+
+## majestic_million.csv
 
 Majestic is an independent technology solution that provides commercial insight into market trends, bridging the gap and be better positioning companies within industry sectors. The Majestic Million database is a collection of a million domains that find the most referring subnets. Free search and download of the top million websites, from the world's largest commercially available backlink database. The [majestic_million.csv](https://downloads.majestic.com/majestic_million.csv) dataset is from [Majestic](https://majestic.com/).
 
