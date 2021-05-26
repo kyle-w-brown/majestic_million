@@ -1,10 +1,14 @@
 # majestic_million.csv
 
-Majestic is an independent technology solution that provides commercial insight into market trends, bridging the gap and be better positioning companies within industry sectors. The Majestic Million database is a collection of a million domains that find the most referring subnets. Free search and download of the top million websites, from the world's largest commercially available backlink database. The [majestic_million.csv](https://downloads.majestic.com/majestic_million.csv) dataset is from [Majestic](https://majestic.com/).
+Majestic is an independent technology solution that provides commercial insight into market trends, bridging the gap and be better positioning companies within industry sectors. 
+
+The Majestic Million database is a collection of a million domains that find the most referring subnets. Free search and download of the top million websites, from the world's largest commercially available backlink database. The [majestic_million.csv](https://downloads.majestic.com/majestic_million.csv) dataset is from [Majestic](https://majestic.com/).
 
 ## About Majestic
 
-Majestic offers leading-edge support for SEO's, developers, digital entrepreneurs, analysts, businesses, online marketing professionals and affiliate managers. They host the largest commercial link intelligence database in the world, Majestic crawls the web and views around a billion URLs a day. Analyzing web data via their Flow Metrics algorithm and sharing results to illuminate business presence on the web, and improve Search Engine Ranking.
+Majestic offers leading-edge support for SEO's, developers, digital entrepreneurs, analysts, businesses, online marketing professionals and affiliate managers. They host the largest commercial link intelligence database in the world, Majestic crawls the web and views around a billion URLs a day. 
+
+Analyzing web data via their Flow Metrics algorithm and sharing results to illuminate business presence on the web, and improve Search Engine Ranking.
 
 
 ## Majestic Dataset
