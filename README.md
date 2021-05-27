@@ -11,7 +11,7 @@ Majestic offers leading-edge support for SEO's, developers, digital entrepreneur
 
 The Majestic dataset consists of 12 variables:
 
-|     | Variables | Description |
+|     | <h3>Variables</h3> | <h3>Description</h3> |
 | --- | ----------- | ----------- |
 |   1 | **GlobalRank**   | Globally ranked SEO in Majestic search. |
 |   2 | **TldRank**        | Ranking of Top Level Domains from Majestic. |
